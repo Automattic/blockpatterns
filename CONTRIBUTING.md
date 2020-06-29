@@ -14,6 +14,7 @@
 5. If the feedback is positive and there are no issues with the code: 
     1. Add the pattern to the master site (https://dotcompatterns.wordpress.com/) as a new post. Select "Pattern" as the cateogry. Hit publish.
     2. If the pattern is using images, make sure those images are added to the media library on the master site.
-        1. Images should be no bigger than 2000px (width or height, whichever is bigger) and optimised.
+        1. Images should be no bigger than 2000px (width or height, whichever is bigger).
+        2. Optimize the image with ImageOptim. Enable Lossy minificartion, 80% quality for JPEGs should work fine.
     3. Add “added to dotcompatterns” label to the corresponding GH issue.
 6. [TO DO - Block deploy process]
