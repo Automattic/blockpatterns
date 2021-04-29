@@ -12,7 +12,7 @@
     3. A few words on your reasoning (nice to have).
 4. Gather team feedback. Ping people if necessary.
 5. If the feedback is positive and there are no issues with the code: 
-    1. Add the pattern to the master site (https://dotcompatterns.wordpress.com/) as a new post. Select "Pattern" as the cateogry. Hit publish.
+    1. Add the pattern to the master site (https://dotcompatterns.wordpress.com/) as a new post. Use "Pattern" as the tag. Hit publish.
     2. If the pattern is using images, make sure those images are added to the media library on the master site.
         1. Images should be no bigger than 2000px (width or height, whichever is bigger).
         2. Optimize the image with ImageOptim. Enable Lossy minificartion, 80% quality for JPEGs should work fine.
