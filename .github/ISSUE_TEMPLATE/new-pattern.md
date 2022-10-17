@@ -7,10 +7,15 @@ assignees: ''
 
 ---
 
-Screenshot:
+**Category:**
 
+**Tag:**
+
+**Screenshot:**
+
+**Markup:**
 ```
 
 ```
 
-Preview:
+**Preview:**
